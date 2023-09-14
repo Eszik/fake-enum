@@ -1,0 +1,3 @@
+- `yarn` to install packages
+- `yarn dev` to start in development mode
+- `yarn build && cd dist && python -m http.server` to build and serve the app
